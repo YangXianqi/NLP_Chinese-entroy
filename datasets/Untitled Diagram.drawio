@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T02:19:51.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ggvtZeDG-MD4P16-pDaq" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-11T02:20:17.180Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="3-5TQ69Q9xbkCMOM_AS2" version="16.5.5" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="2248" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2822" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,8 +79,8 @@
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-78" value="BaseKeeper" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="300" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-83" value="根据提案获取账户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="300" y="761" width="60" height="30" as="geometry" />
+        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-83" value="根据提案中的address获取账户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="761" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="Nz0Rocr3UUq3pwJZOBRc-84" target="Nz0Rocr3UUq3pwJZOBRc-86">
           <mxGeometry relative="1" as="geometry" />
