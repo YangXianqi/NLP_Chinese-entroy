@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T15:34:56.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="x5jYJ-TRv50mV_xBX7xO" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-11T02:19:51.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ggvtZeDG-MD4P16-pDaq" version="16.5.5" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="3560" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2248" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,8 @@
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-59" value="abci处理" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="424" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-62" value="发起提案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="510" y="260" width="110" height="30" as="geometry" />
+        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-62" value="发起提案，生成&lt;div&gt;&lt;div class=&quot;document&quot;&gt;&lt;p class=&quot;paragraph text-align-type-left pap-line-1.3 pap-line-rule-auto pap-spacing-before-3pt pap-spacing-after-3pt&quot; style=&quot;text-align: left ; line-height: 1.3 ; margin-top: 4px ; margin-bottom: 4px&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; color: rgb(51 , 51 , 51) ; background: transparent ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;MsgSubmitProposal&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Nz0Rocr3UUq3pwJZOBRc-63" target="Nz0Rocr3UUq3pwJZOBRc-69">
           <mxGeometry relative="1" as="geometry" />
@@ -43,17 +43,17 @@
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="Nz0Rocr3UUq3pwJZOBRc-63" target="Nz0Rocr3UUq3pwJZOBRc-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-63" value="提案" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="450" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-63" value="提案&lt;div&gt;&lt;div class=&quot;document&quot;&gt;&lt;p class=&quot;paragraph text-align-type-left pap-line-1.3 pap-line-rule-auto pap-spacing-before-3pt pap-spacing-after-3pt&quot; style=&quot;text-align: left ; line-height: 1.3 ; margin-top: 4px ; margin-bottom: 4px&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; color: rgb(51 , 51 , 51) ; background: transparent ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;MintCoinProposal/BurnCoinProposal&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="380" y="560" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="Nz0Rocr3UUq3pwJZOBRc-64" target="Nz0Rocr3UUq3pwJZOBRc-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-64" value="系统管理员" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="670" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="679" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-67" value="对提案进行投票" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="640" y="490" width="130" height="30" as="geometry" />
+          <mxGeometry x="669" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="Nz0Rocr3UUq3pwJZOBRc-69" target="Nz0Rocr3UUq3pwJZOBRc-72">
           <mxGeometry relative="1" as="geometry" />
@@ -85,8 +85,8 @@
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="Nz0Rocr3UUq3pwJZOBRc-84" target="Nz0Rocr3UUq3pwJZOBRc-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-84" value="账户" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="480" y="930" width="120" height="60" as="geometry" />
+        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-84" value="账户AccountI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="481" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="Nz0Rocr3UUq3pwJZOBRc-86" target="Nz0Rocr3UUq3pwJZOBRc-89">
           <mxGeometry relative="1" as="geometry" />
@@ -106,10 +106,10 @@
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-92" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="520" y="780" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-95" value="该账户资产" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-95" value="该账户资产sdk.Coin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="480" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-98" value="从提案获取增加或减少的通证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-98" value="从提案获取增加或减少的通证flag amount" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-100" y="790" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="Nz0Rocr3UUq3pwJZOBRc-95" target="Nz0Rocr3UUq3pwJZOBRc-95">
@@ -121,7 +121,7 @@
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="Nz0Rocr3UUq3pwJZOBRc-75" target="Nz0Rocr3UUq3pwJZOBRc-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-104" value="zeus链上发行的的总通证" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-104" value="zeus链上发行的的总通证sdk.Coin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="480" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Nz0Rocr3UUq3pwJZOBRc-107" target="Nz0Rocr3UUq3pwJZOBRc-110">
@@ -156,6 +156,9 @@
         </mxCell>
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-119" value="更新" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="630" y="1360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-120" value="通过BaseSendKeeper的接口来获得资产" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1140" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
