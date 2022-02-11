@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T02:35:11.874Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="3ErF19fSkmnTyjBN5_60" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-11T02:41:41.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="IYAMGapmDG4Hhha3jGcm" version="16.5.5" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="2535" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2248" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,9 +114,6 @@
         </mxCell>
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="Nz0Rocr3UUq3pwJZOBRc-95" target="Nz0Rocr3UUq3pwJZOBRc-95">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-101" value="资产更新" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="Nz0Rocr3UUq3pwJZOBRc-75" target="Nz0Rocr3UUq3pwJZOBRc-75">
           <mxGeometry relative="1" as="geometry" />
@@ -321,6 +318,12 @@
         </mxCell>
         <mxCell id="Nz0Rocr3UUq3pwJZOBRc-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="Nz0Rocr3UUq3pwJZOBRc-123" target="Nz0Rocr3UUq3pwJZOBRc-123">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-186" value="调用&lt;div&gt;&lt;div class=&quot;document&quot;&gt;&lt;p class=&quot;paragraph text-align-type-left pap-line-1.3 pap-line-rule-auto pap-spacing-before-3pt pap-spacing-after-3pt&quot; style=&quot;text-align: left ; line-height: 1.3 ; margin-top: 4px ; margin-bottom: 4px&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; color: rgb(51 , 51 , 51) ; background: transparent ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;NewAccountProposalHandler&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz0Rocr3UUq3pwJZOBRc-189" value="调用&lt;div&gt;&lt;div class=&quot;document&quot;&gt;&lt;p class=&quot;paragraph text-align-type-left pap-line-1.3 pap-line-rule-auto pap-spacing-before-3pt pap-spacing-after-3pt&quot; style=&quot;text-align: left ; line-height: 1.3 ; margin-top: 4px ; margin-bottom: 4px&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; color: rgb(51 , 51 , 51) ; background: transparent ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;NewCoinProposalHandler实现资产更新&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
